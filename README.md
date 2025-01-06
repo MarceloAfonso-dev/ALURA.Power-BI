@@ -9,3 +9,6 @@
 - Realizar cálculos dinâmicos com as fórmulas DAX
 - Criar dashboards e relatórios harmônicos, dinâmicos e interativos
 - Conhecer o serviço do PBI e suas possibilidades de conexão e compartilhamento
+
+
+...
